@@ -1,4 +1,4 @@
-Risk Metrics: Leverage and Reputational Risk
+##Risk Metrics: Leverage and Reputational Risk
 
 The most common sources of business risk seem to stem from excessive leverage. When a company owes more money than it is worth, it is unlikely to survive. If you're in a business that depends upon making loans, and you are also leveraged, the risk to you if your customers default is magnified many times. In the United States, before the financial crisis of 2008, banks were allowed to borrow $33 for every $1 that they held in equity. So imagine a bank that could borrow money at 2% and lend it out at 3%. If they had $10 million in equity they could borrow $330 million in debt, lend out that money at 3% and make a gross profit before expenses of $3.3 million per year or a 33% return on their $10 million in equity. However, only a very small portion of their loans needed to become unrecoverable or in default for the bank to become insolvent. $10 million out of $330 million is only 3%.
 

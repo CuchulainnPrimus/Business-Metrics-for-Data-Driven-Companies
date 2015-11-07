@@ -1,4 +1,4 @@
-Distinguishing Traditional and Dynamic Metrics
+##Distinguishing Traditional and Dynamic Metrics
 
 Traditional business metrics include standard financial and managerial accounting categories, such as quarterly statements of net cash flow, profits and losses, and changes to balance sheet items such as shareholder's equity. Traditional business metrics have their origins primarily in paper and pencil, after the fact reporting. Some of these metrics were once innovative too, like 500 years ago, when bankers in Florence, Italy invented double entry book keeping. Business decisions, that might be made based on these metrics, will happen usually after long deliberation, sometimes on a scale of months to years. They remain extremely important and worth of our study, but we just don't have time for that.
 

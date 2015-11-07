@@ -1,4 +1,4 @@
-Profitability/Efficiency Metrics: Inventory Management
+##Profitability/Efficiency Metrics: Inventory Management
 
 We've already identified some of the most important revenue business metrics, focusing on enterprise sales. Now we'll look at examples of profitability or efficiency metrics, focusing for now on metrics that are widely used to evaluate the efficiency of a company's inventory management and we'll let you in on the secret of how to pay the lowest possible price for a hotel room.
 

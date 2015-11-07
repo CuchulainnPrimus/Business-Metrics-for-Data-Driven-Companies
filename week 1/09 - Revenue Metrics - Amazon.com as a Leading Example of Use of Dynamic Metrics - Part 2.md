@@ -1,4 +1,4 @@
-Revenue Metrics - Amazon.com as a Leading Example of Use of Dynamic Metrics - Part 2
+##Revenue Metrics - Amazon.com as a Leading Example of Use of Dynamic Metrics - Part 2
 
 What have we discovered about the Amazon database behind this individualized magic? We already know that for every unique book ID, Amazon must store a tree of subject area categories and subtopics, subcategories, that the book is located in, and a record of how each book ranks in terms of Amazon's own recent sales within each of the subject area categories and subcategories in which it is cross-listed. We are about to see what other dynamic revenue metrics Amazon tracks for each book, and how it stores and uses that information.
 

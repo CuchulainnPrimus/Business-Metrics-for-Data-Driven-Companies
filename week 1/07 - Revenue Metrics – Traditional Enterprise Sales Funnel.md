@@ -1,4 +1,4 @@
-Revenue Metrics – Traditional Enterprise Sales Funnel
+##Revenue Metrics – Traditional Enterprise Sales Funnel
 
 We'll talk now about the Traditional Enterprise Sales Funnel. As you recall, revenue metrics are outward facing. They have to do with a company’s outreach to customers. They measure how well or badly a company is identifying potential customers, communicating to them about its offerings and value proposition to them and ultimately, selling to them. After watching this video you will be able to identify, and track, the most important business metrics that define success in traditional enterprise sales.
 
@@ -20,16 +20,11 @@ Here are a few examples that I have come across in my business {career}. After g
 
 So, to review, the key enterprise sales metrics are:
 
-· New leads.
-
-· New qualified leads.
-
-· Expressions of interest.
-
-· Meetings with the correct decision maker.
-
-· Getting the decision making to say yes, that's a soft circle sale.
-
-· And then the number of actual official binding contract sales.
+- New leads.
+- New qualified leads.
+- Expressions of interest.
+- Meetings with the correct decision maker.
+- Getting the decision making to say yes, that's a soft circle sale.
+- And then the number of actual official binding contract sales.
 
 And that's when you book the revenue for financial accounting purposes.

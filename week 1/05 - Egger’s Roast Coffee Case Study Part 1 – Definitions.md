@@ -1,4 +1,4 @@
-Egger’s Roast Coffee Case Study Part 1 – Definitions
+##Egger’s Roast Coffee Case Study Part 1 – Definitions
 
 Next, we will be going through a case study to illustrate the critical difference between profitability metrics and cash flow metrics. Part one of this case study will talk about some financial definitions. Business analytics is not financial accounting, but it does draw upon some accounting concepts for its metrics. We will keep this brief. So in about the next ten minutes, I'm going to orient you to all the financial accounting terms and concepts you will need to grasp essential business metrics. I will explain these very few most important terms through the example of a start-up venture that I'm organizing, Egger's Roast Coffee. Egger's Roast Coffee plans to buy raw coffee beans in bulk, roast and package them and sell them wholesale at higher prices, obviously, to a grocery store chain. In the next video, we will explore what happens with Egger’s Roast Coffee when you have different types of growth scenarios and we will show how a rapid growth scenario can actually be very dangerous in terms of cash flow even if it's fine in terms of profits.
 

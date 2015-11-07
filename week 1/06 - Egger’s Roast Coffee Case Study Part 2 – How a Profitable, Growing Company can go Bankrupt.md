@@ -1,4 +1,4 @@
-Egger’s Roast Coffee Case Study Part 2 – How a Profitable, Growing Company can go Bankrupt
+##Egger’s Roast Coffee Case Study Part 2 – How a Profitable, Growing Company can go Bankrupt
 
 Now we're going to look at how a profitable growing company can go bankrupt. In scenario one, we have steady sales. Let's take a look at scenario one in the spreadsheet, a handout I provided. Egger's Roast Coffee is selling 25,000 pounds of coffee every month at $6 per pound at an average total cost $5 per pound for a net profit of $1 per pound. So it all sounds good. The P&L statement matches sales that are booked in January: $150,000 for 25,000 pounds at $6 per pound to the variable costs of January production which are $100,000 plus January's share of the fixed costs: $25,000 total. $10,000 G&A expense and $15,000 for one months' straight line depreciation of capital equipment resulting in a new profit of $150,000 minus $125,000 or $25,000.
 

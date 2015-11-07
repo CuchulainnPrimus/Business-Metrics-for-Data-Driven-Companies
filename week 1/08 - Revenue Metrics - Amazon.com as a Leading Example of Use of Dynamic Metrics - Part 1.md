@@ -1,4 +1,4 @@
-Revenue Metrics - Amazon.com as a Leading Example of Use of Dynamic Metrics - Part 1
+##Revenue Metrics - Amazon.com as a Leading Example of Use of Dynamic Metrics - Part 1
 
 Enterprise sales that are dependent on personal one-on-one meetings between sales people and potential customers, they represent one extreme on a sales continuum, a place where traditional revenue metrics predominate. At the other extreme, online retailers entice potential customers to make purchases without interacting with a human being at all. Yet successful online retailers manage the customer experience through their web or mobile based interfaces so that the sales process does not feel impersonal or robotic and they manage it empirically to optimize revenue from each customer visit.
 

@@ -1,4 +1,4 @@
-Profitability/Efficiency Metrics: Hotel Room Occupancy Optimization
+##Profitability/Efficiency Metrics: Hotel Room Occupancy Optimization
 
 Not all wasting assets in inventory are products in the traditional sense of an object sitting on a shelf. Two important examples are airline tickets and hotel rooms. Here is why these can be thought of as a completely wasting asset. An airline has a regularly scheduled flight, let's say from Raleigh-Durham Airport to San Francisco. The minimal variable cost to the airline if it fills that seat is just the extra fuel to lift perhaps an additional 100 kilograms of a person and their baggage and maybe a bottle of water and some peanuts. Almost all the cost associated with that seat are fixed, or sunk costs. The airline can't spend less on its airplane lease or on maintenance, or pay the pilot and crew less just because there was an empty seat on that flight. The money spent to create the seat is completely wasted if the seat is not sold in time.
 
