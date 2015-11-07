@@ -1,19 +1,15 @@
-Distinguishing Revenue, Profitability, and Risk Metrics
+##Distinguishing Revenue, Profitability, and Risk Metrics
 
 All business metrics can be classified into three broad categories:
 
 1. Revenue metrics,
-
 2. Profitability metrics, and
-
 3. Risk metrics.
 
 One way to help distinguish for a particular metric, which of these three categories it falls into, is to think about what people in the company depend on this information and will ask for it.
 
 · Revenue metrics relate to sales and marketing;
-
 · Profitability metrics to efficiency and logistics, production, and operations; and
-
 · Risk metrics to risk management, and are widely used by a company's creditors and outside investors.
 
 So, revenue metrics are outward facing. They tell us something about how well or badly the company is marketing and selling its products. The company sales force, typically led by a vice president of sales, will want to know how many units of each product were sold over a given time interval and how this compares to the same time interval last year and the year before. They will want to look at sales by region, by product and by new versus repeat customers. And they will want to know about the sales funnel, the potential future customers who have been identified, and where they are in the step by step process of moving towards making a purchase; much more on the sales funnel later.
@@ -37,4 +33,5 @@ Maybe this will help you to remember the categories:
 · Revenue metrics are for optimistic extroverts,
 · Profitability metrics for fastidious perfectionists, and
 · Risk metrics for informed skeptics.
+
 A great company will harness all three types of temperaments and track all three types of metrics.
