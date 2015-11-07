@@ -1,15 +1,13 @@
-Introduction to Course One: Business Metrics data driven companies
+##Introduction to Course One: Business Metrics data driven companies
 
-Daniel Egger
+*Daniel Egger*
 
 Question - What will you be able to do after you complete this course: Business metrics for data driven companies? At least four things.
 
 With module two, you'll be able to distinguish the numbers that are vital to the health and success of a business- business metrics from the flood of other, less useful data that surrounds every business. You'll be able to classify any business metric. First, you'll be able to distinguish which of the three main categories of business data a metric falls into:
 
 1.	revenue,
-
 2.	profitability or
-
 3.	risk.
 
 And you will be able to distinguish traditional metrics from what we call here dynamic metrics: metrics often quite new that offer the greatest potential to lead the innovation through rapid business process improvement.
