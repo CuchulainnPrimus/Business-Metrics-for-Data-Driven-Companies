@@ -1,3 +1,4 @@
+<!-- .slide: style="text-align: left;"> -->  
 ##Introduction to Course One: Business Metrics data driven companies
 
 *Daniel Egger*
