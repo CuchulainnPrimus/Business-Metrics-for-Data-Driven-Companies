@@ -1,9 +1,9 @@
 ##Summary
 
 What is the highest and best use of a business analyst or a business data analyst? 
-- To find out the right question to ask. 
-	What is always the right question? Answer: What change, in our business processes can and should we make right now to increase revenues, maximize profitability, or reduce our risk.
-	Right now:
+- To find out the right question to ask.
+   What is always the right question? Answer: What change, in our business processes can and should we make right now to increase revenues, maximize profitability, or reduce our risk.
+   Right now:
 	- realtime
 	- just in time
 - find the best answer you possibly can in the time, and with the resources available. 
