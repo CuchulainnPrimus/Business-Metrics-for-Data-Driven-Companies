@@ -11,7 +11,7 @@ Ensuring that your answer has practical impact by:
 - communicated to the relevant decision makers
 - using visual metaphors and non technical language.
 
-What do we mean by ‚Äúright now‚Äù? 
+What do we mean by ìright nowî? 
 
 1.	Ideally realtime,
 2.	Just in Time,
