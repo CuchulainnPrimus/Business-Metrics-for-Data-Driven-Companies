@@ -12,11 +12,13 @@ Ensuring that your answer has practical impact by:
 - using visual metaphors and non technical language.
 
 What do we mean by “right now”? 
-1.	Ideally realtime
-2.	Just in Time
+
+1.	Ideally realtime,
+2.	Just in Time,
 3.	No immediate change. Gather data by AB testing
 
 All business metrics can be classified into three broad categories:
+
 1.	Revenue metrics, relate to sales and marketing. For optimistic extroverts;
 2.	Profitability metrics, relate to efficiency and logistics, production, and operations. For fastidious perfectionists;
 3.	Risk metrics, relate to risk management, and are widely used by a company's creditors and outside investors. For informed skeptics.
