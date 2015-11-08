@@ -11,7 +11,7 @@ Ensuring that your answer has practical impact by:
 - communicated to the relevant decision makers
 - using visual metaphors and non technical language.
 
-What do we mean by ìright nowî? 
+What do we mean by ‚Äúright now‚Äù? 
 
 1.	Ideally realtime,
 2.	Just in Time,
@@ -48,7 +48,7 @@ There are 4 main reasons that inventory time should be minimized.
 
 Approximation of average days inventory:
 VoI = the value of inventory on hand at the end of the year
-C_annual = the total annual cost of goods sold.
+C_annual = the total annual cost of goods sold
 I_average = average days inventory 
 
 I_average = 365*VoI/C_annual
