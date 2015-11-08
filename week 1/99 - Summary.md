@@ -32,3 +32,23 @@ Dynamic Business Metrics:
 - there are specific actions the company can take that can visibly or significantly impact the metric in the short term
 - twitchy: Small changes in process, in our process, can lead to big impact.
 
+The key enterprise sales metrics are:
+- New leads.
+- New qualified leads.
+- Expressions of interest.
+- Meetings with the correct decision maker.
+- Getting the decision making to say yes, that's a soft circle sale.
+- And then the number of actual official binding contract sales.
+
+There are 4 main reasons that inventory time should be minimized.
+1.	Negative float.
+2.	fixed cost of storage.
+3.	Wastage
+4.	Obsolescence
+
+Approximation of average days inventory:
+VoI = the value of inventory on hand at the end of the year
+C_annual = the total annual cost of goods sold.
+I_average = average days inventory 
+
+I_average = 365*VoI/C_annual
