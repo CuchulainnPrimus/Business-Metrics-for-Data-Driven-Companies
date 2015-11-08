@@ -40,7 +40,8 @@ The key enterprise sales metrics are:
 - Getting the decision making to say yes, that's a soft circle sale.
 - And then the number of actual official binding contract sales.
 
-There are 4 main reasons that inventory time should be minimized.
+There are 4 main reasons that inventory time should be minimized.  
+
 1.	Negative float.
 2.	fixed cost of storage.
 3.	Wastage
