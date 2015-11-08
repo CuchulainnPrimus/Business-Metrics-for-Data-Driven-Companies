@@ -40,7 +40,7 @@ The key enterprise sales metrics are:
 - Getting the decision making to say yes, that's a soft circle sale.
 - And then the number of actual official binding contract sales.
 
-There are 4 main reasons that inventory time should be minimized.  
+There are 4 main reasons why inventory time should be minimized.  
 
 1.	Negative float.
 2.	fixed cost of storage.
@@ -53,3 +53,7 @@ C_annual = the total annual cost of goods sold
 I_average = average days inventory  
 
 I_average = 365*VoI/C_annual
+
+Sources of business risk:
+- The most common sources of business risk seem to stem from excessive leverage. 
+- Another type of risk is reputational, damage to your brand and ability to sell in the future. 
