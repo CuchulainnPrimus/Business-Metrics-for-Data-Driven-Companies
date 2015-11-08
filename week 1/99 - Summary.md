@@ -46,9 +46,9 @@ There are 4 main reasons that inventory time should be minimized.
 3.	Wastage
 4.	Obsolescence
 
-Approximation of average days inventory:
-VoI = the value of inventory on hand at the end of the year
-C_annual = the total annual cost of goods sold
-I_average = average days inventory 
+Approximation of average days inventory:  
+VoI = the value of inventory on hand at the end of the year  
+C_annual = the total annual cost of goods sold  
+I_average = average days inventory  
 
 I_average = 365*VoI/C_annual
