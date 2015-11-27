@@ -17,9 +17,13 @@ Five types of companies, based on their fundamental relationship to big data:
 requirements all of these jobs have in common, broken down into seven areas.
 
 1 - ability to identify the most important and relevant business metrics for a specific business. This is local knowledge of the industry sector where a particular company is active; 
+
 2 - ability to apply appropriate models to analyze those metrics. Models are ways we represent a real world situation in simplified mathematical form; 
+
 3 - Ability to Quantify the effectiveness of models used; 
+
 4 - Ability to listen, to interview customers internal or external to define project requirements; 
+
 5 - Basic Excel Skills, including the ability to identify patterns and trends in business data, make forecasts, organize financial information and display conclusions in charts and graphs. And more intermediate Excel skills, such as the ability to import and manage large data sets, develop and test different models, and run optimizations using solver; 
 6 - Presentation Skills. Effective, meaning clear, concise, and persuasive, verbal and written communication using PowerPoint; 
 7 - The ability to use data visualizations to make your conclusions and recommendations intuitive to a non-technical audience.
