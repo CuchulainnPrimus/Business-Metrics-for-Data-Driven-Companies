@@ -80,3 +80,45 @@ A variation on this situation is the specialized group of consulting firms that 
 - FICO. uses the data originally gathered by the credit bureaus to generate a single number, the FICO score, that predicts credit worthiness. 
 - comScore, Tracking web and mobile click streams, with user permission, comScore observes how much traffic goes where and as a kind of Nielsen rating for the web. comScore quote, measures what people do when they navigate the digital world.
 - Argus Information and Advisory services, combines credit card transactions, balances and payments across most ofthe credit cards in the industry. Argus builds models about consumerbehavior, segmenting potential customers and helping banks with marketingpromotions for new credit cards. As well as with managing credit risk. Argus revenue's are notbroken out separately. 
+
+Certain sectors of the traditional bricks and mortar economy are presently under serious threat from digital companies. These sectors have the most to gain by adopting best practices for business analytics and the most to lose from failing to move. Threatened sectors include, but are not limited to:
+- All forms of consumer retail purchases, including books, movies, music, fashion, electronics, groceries, household supplies.
+- Financial services, including issuing credit cards, making other types of unsecured loans to individuals and small businesses, payment processing, and managing other people's money as an investment advisor.
+- Real estate, in particular, short-term lodging such as hotel rooms.
+- Logistics and transportation, in particular, local taxi industries around the world.
+
+Here is a checklist you can use to evaluate how far along a company is in embracing big data culture. This checklist has a total of 20 items. 19 items are relevant to product companies and 14 to service companies. Over time, this checklist will no doubt evolve. It represents the state of the industry in 2015 to 2016.
+1. Offer a mobile version of its website tested for rapid loading times in all the world markets. Does it use edge caching, content delivery network, such as Akamai? Can you buy products and services directly from mobile apps for Android and iOS as well as the web?
+2. Track your visitor's full click stream. The exact path through the website with time spent at each point, rather than just count unique visitors or page views.
+3. Define conversion of new website visitors in two steps. First, individuals register and provide name and email, and second, they become revenue generating customers.
+4. Do ongoing A/B testing of site features to optimize rates of conversion to revenue.
+5. Know how to achieve and maintain a high Google Adrank.
+6. Know the maximum price per click-through for web advertising that is profitable. This requires knowing both the conversion rate to revenues per click-through, and the average lifetime value of a new customer.
+7. Give customers a meaningful and effective incentive to interact with the company online between store visits. Ideally make real-time online promotional {offers} to individuals based on a preference analysis of their specific history.
+8. And this is for product companies only, allowed companies to see what is on the shelf in their local store while online.
+9. Again for product companies, allow customers to order ahead of time and pick up at the store.
+10. Really what you {want to} do is, collaborate with third-party shopping and delivery services, to enable same-day or less deliveries from the nearest store, for product {companies}.
+11. The equivalent for service companies, number eleven, is to make sure that whatever service you provide; you're doing it and completing the service delivery as fast as your online competitors. So for example, if {you’re} making loans: does the person borrowing receive the money as fast as they do from your online competition?
+12. Track all interactions with a customer, sales, complaints, web interactions, located under a single customer record ID in a database. And have that information available on a, quote, “just in time basis when interacting with a customer.”
+13. Identify opportunities for recurring revenue through value added membership and loyalty programs, like Costco membership or Amazon Prime.
+14. Have point-of-sale customization. For example, custom coupons for additional products or services aimed at a particular customer's past purchase interests that are available to them when they check out.
+15. Develop customer incentives to reward and cultivate your highest-spending, repeat customers, what they call in Las Vegas, the whales, or air travelers with executive platinum.
+16. Continually track churn rates and follow up with special incentives to lure back customers who have gone quiet for a {set} period.
+17. For product companies only, track all SKU's at the store level to prevent excessive days inventory.
+18. Product companies, track all zero-inventory items to eliminate empty shelves. Do research to identify products customers wanted that are not carried.
+19. For product companies, vary inventory levels for individual items by store, region, season, even day of the week, to balance minimizing days inventory and wastage against not running out.
+20. Offer effective price reduction and last minute promotion programs to sell any wasting inventory, whether products or services like hotel rooms or airline tickets.
+
+So here's how you can score your company:
+- For product companies, 16 or more out of 19 is very good to excellent. 14 out of 19 is good, but needs improvement. 11 out of 19 is passing, and fewer than that your company is lagging and needs to consider changing its business culture, or simply withdrawing from markets that face digital competition.
+- For service companies we have 14 that apply. Ten or more out of 14 is very good to excellent. I'd say 8 to 10 is good, but needs improvement, 7 passing, and 6 or fewer, the company, again, is lagging and needs to change its business culture or consider withdrawing from the digital markets where it is competing.
+
+A second type of strategic business consulting firm focuses on offering advice about changing business processes. That includes recommendations for the consultant to help the client build and install new information technology infrastructure. IT focused consulting companies are a small segment but they are one of the most important forces driving the worldwide adoption of big data culture. They need some business data analysts but even more they need data scientists and teams of experienced software engineers.
+
+The world leader in this market is Ireland-based Accenture, with US$32 billion in revenues. An example of the kind of large-scale IT project Accenture takes on, is its 5 year, US$563 million year contract awarded in January 2015 by the US government to run the new and formerly quite poorly managed federal health insurance website healthcare.gov.
+
+Other examples of companies in the same space include Palantir based in Palo Alto, California and Opera Solutions based in New York City. Palantir founded in 2004 Generated an estimated US$500-580 million in revenues in 2014. Palantir is growing rapidly and is one of the three most highly valued privately held companies in the US, having raised over US$1 billion in equity investment. With a most recent evaluation estimated to be over US$15 billion. In its own words, “Palantir specializes in analysis, but we don't actually do the analysis ourselves, we write software that enables experts in their respective fields to extract insight from information,” unquote.
+
+Opera Solutions, also founded in 2004, in its own words, quote, “..applies advanced analytics to big data flows to extract predictive patterns,” unquote. Opera does not disclose revenues and is clearly on a somewhat smaller scale than Palantir, but it has raised over US$ 120 million in venture investment and has over 500 employees worldwide.
+
+Stepping away to look at the big picture; what information technology consulting firms do, is introduce the technologically newest methods for achieving competitive advantage into a particular vertical market, such as retail grocery stores. They identify one company in that market with an early adopter culture; a company willing to take some risks in return for the potential advantage of having new technology implemented first. Let's say that first company does successfully implement some form of better data driven decision making and it starts to generate higher revenues or better profit margins. Now, that company's direct competitors have no real choice but to upgrade their own IT systems or face disruption. The same strategic consulting firm that helped the first company now has a much easier time selling the same type of technology solution to the first companies direct competitors. Soon all surviving companies in a sector have roughly the same type of information technology capability and the endless cycle of upgrades repeats. Buzzwords tend to surround these upgrades and big data is the biggest buzzword of all, but in this case the hype is justified.
