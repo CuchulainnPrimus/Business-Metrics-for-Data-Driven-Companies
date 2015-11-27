@@ -88,25 +88,25 @@ Certain sectors of the traditional bricks and mortar economy are presently under
 - Logistics and transportation, in particular, local taxi industries around the world.
 
 Here is a checklist you can use to evaluate how far along a company is in embracing big data culture. This checklist has a total of 20 items. 19 items are relevant to product companies and 14 to service companies. Over time, this checklist will no doubt evolve. It represents the state of the industry in 2015 to 2016.
-1. Offer a mobile version of its website tested for rapid loading times in all the world markets. Does it use edge caching, content delivery network, such as Akamai? Can you buy products and services directly from mobile apps for Android and iOS as well as the web?
-2. Track your visitor's full click stream. The exact path through the website with time spent at each point, rather than just count unique visitors or page views.
-3. Define conversion of new website visitors in two steps. First, individuals register and provide name and email, and second, they become revenue generating customers.
-4. Do ongoing A/B testing of site features to optimize rates of conversion to revenue.
-5. Know how to achieve and maintain a high Google Adrank.
-6. Know the maximum price per click-through for web advertising that is profitable. This requires knowing both the conversion rate to revenues per click-through, and the average lifetime value of a new customer.
-7. Give customers a meaningful and effective incentive to interact with the company online between store visits. Ideally make real-time online promotional {offers} to individuals based on a preference analysis of their specific history.
-8. And this is for product companies only, allowed companies to see what is on the shelf in their local store while online.
-9. Again for product companies, allow customers to order ahead of time and pick up at the store.
-10. Really what you {want to} do is, collaborate with third-party shopping and delivery services, to enable same-day or less deliveries from the nearest store, for product {companies}.
-11. The equivalent for service companies, number eleven, is to make sure that whatever service you provide; you're doing it and completing the service delivery as fast as your online competitors. So for example, if {you’re} making loans: does the person borrowing receive the money as fast as they do from your online competition?
-12. Track all interactions with a customer, sales, complaints, web interactions, located under a single customer record ID in a database. And have that information available on a, quote, “just in time basis when interacting with a customer.”
-13. Identify opportunities for recurring revenue through value added membership and loyalty programs, like Costco membership or Amazon Prime.
-14. Have point-of-sale customization. For example, custom coupons for additional products or services aimed at a particular customer's past purchase interests that are available to them when they check out.
-15. Develop customer incentives to reward and cultivate your highest-spending, repeat customers, what they call in Las Vegas, the whales, or air travelers with executive platinum.
-16. Continually track churn rates and follow up with special incentives to lure back customers who have gone quiet for a {set} period.
-17. For product companies only, track all SKU's at the store level to prevent excessive days inventory.
-18. Product companies, track all zero-inventory items to eliminate empty shelves. Do research to identify products customers wanted that are not carried.
-19. For product companies, vary inventory levels for individual items by store, region, season, even day of the week, to balance minimizing days inventory and wastage against not running out.
+1. Offer a mobile version of its website tested for rapid loading times in all the world markets. Does it use edge caching, content delivery network, such as Akamai? Can you buy products and services directly from mobile apps for Android and iOS as well as the web?	
+2. Track your visitor's full click stream. The exact path through the website with time spent at each point, rather than just count unique visitors or page views.	
+3. Define conversion of new website visitors in two steps. First, individuals register and provide name and email, and second, they become revenue generating customers.	
+4. Do ongoing A/B testing of site features to optimize rates of conversion to revenue.	
+5. Know how to achieve and maintain a high Google Adrank.	
+6. Know the maximum price per click-through for web advertising that is profitable. This requires knowing both the conversion rate to revenues per click-through, and the average lifetime value of a new customer.	
+7. Give customers a meaningful and effective incentive to interact with the company online between store visits. Ideally make real-time online promotional {offers} to individuals based on a preference analysis of their specific history.	
+8. And this is for product companies only, allowed companies to see what is on the shelf in their local store while online.	
+9. Again for product companies, allow customers to order ahead of time and pick up at the store.	
+10. Really what you {want to} do is, collaborate with third-party shopping and delivery services, to enable same-day or less deliveries from the nearest store, for product {companies}.	
+11. The equivalent for service companies, number eleven, is to make sure that whatever service you provide; you're doing it and completing the service delivery as fast as your online competitors. So for example, if {you’re} making loans: does the person borrowing receive the money as fast as they do from your online competition?	
+12. Track all interactions with a customer, sales, complaints, web interactions, located under a single customer record ID in a database. And have that information available on a, quote, “just in time basis when interacting with a customer.”	
+13. Identify opportunities for recurring revenue through value added membership and loyalty programs, like Costco membership or Amazon Prime.	
+14. Have point-of-sale customization. For example, custom coupons for additional products or services aimed at a particular customer's past purchase interests that are available to them when they check out.	
+15. Develop customer incentives to reward and cultivate your highest-spending, repeat customers, what they call in Las Vegas, the whales, or air travelers with executive platinum.	
+16. Continually track churn rates and follow up with special incentives to lure back customers who have gone quiet for a {set} period.	
+17. For product companies only, track all SKU's at the store level to prevent excessive days inventory.	
+18. Product companies, track all zero-inventory items to eliminate empty shelves. Do research to identify products customers wanted that are not carried.	
+19. For product companies, vary inventory levels for individual items by store, region, season, even day of the week, to balance minimizing days inventory and wastage against not running out.	
 20. Offer effective price reduction and last minute promotion programs to sell any wasting inventory, whether products or services like hotel rooms or airline tickets.
 
 So here's how you can score your company:
