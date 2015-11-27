@@ -87,7 +87,7 @@ Certain sectors of the traditional bricks and mortar economy are presently under
 - Real estate, in particular, short-term lodging such as hotel rooms.
 - Logistics and transportation, in particular, local taxi industries around the world.
 
-Here is a checklist you can use to evaluate how far along a company is in embracing big data culture. This checklist has a total of 20 items. 19 items are relevant to product companies and 14 to service companies. Over time, this checklist will no doubt evolve. It represents the state of the industry in 2015 to 2016.
+Here is a checklist you can use to evaluate how far along a company is in embracing big data culture. This checklist has a total of 20 items. 19 items are relevant to product companies and 14 to service companies. Over time, this checklist will no doubt evolve. It represents the state of the industry in 2015 to 2016.	
 1. Offer a mobile version of its website tested for rapid loading times in all the world markets. Does it use edge caching, content delivery network, such as Akamai? Can you buy products and services directly from mobile apps for Android and iOS as well as the web?	
 2. Track your visitor's full click stream. The exact path through the website with time spent at each point, rather than just count unique visitors or page views.	
 3. Define conversion of new website visitors in two steps. First, individuals register and provide name and email, and second, they become revenue generating customers.	
