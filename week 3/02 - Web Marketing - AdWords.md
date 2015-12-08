@@ -8,9 +8,9 @@ Advertisers bid on their keywords by setting a maximum cost per click-through, o
 
 Google ranks the links that it shows. Higher ranked links get more attention and more clicks. Google could maximize its revenues by ranking highest links that maximize actual CPC multiplied by the expected click-through rate. In fact, Google does almost exactly this calculation. But instead of multiplying the CPC by the expected click-through rate alone, they multiply CPC by a metric called a Quality Score that includes the expected click through rate and two other factors. The other weighting factors are ad relevance and landing page experience.
 
-'''
+```
 CPC bid * Quality Score = Ad Rank
-'''
+```
 
 In Google's words what this means is the quality of your ad text and landing page in the context of what a user is searching for. This may sound mysterious, but the purpose of the two additional {weighting} factors is to prevent exploitative misdirection that would hurt the Google brand.
 
