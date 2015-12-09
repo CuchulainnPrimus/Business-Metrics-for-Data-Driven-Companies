@@ -6,11 +6,12 @@ We will now discuss returns and volatility of returns. Asset returns are calcula
 
 The first method, which calculates the continuously compounded return involves taking the log, to the base e. Usually written as a natural log ln of the ratio of the final price divided by the first price.
 
-
+```
+Continuous Absolute Return = log_e (Final Price)/Initial Price) = ln (Final Price)/Initial Price) 
+```
 And this will give us a value for the absolute return. So, if we started with $100 and we ended up with $130, natural log of 1.3, this gives us .2624 or 26.24% for the absolute return over the two year period.
 
 Then, if we want to calculate the one year or annual return, we simply divided this value by the number of years, 2 years at a value of 13.12% per year.
-![equation](http://bit.ly/1Nc0Dih)
 
 So note that the exact same return of $130 gives us 26.24% using the continuously compounded method and 30% using the discrete method.
 
