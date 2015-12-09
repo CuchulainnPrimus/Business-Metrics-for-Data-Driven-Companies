@@ -41,9 +41,6 @@ When an investment is not made all at once, but cash is invested at several diff
 ```
 (1 + x)^4 + (1 + x)^2 = 5
 ```
-{Here is a way to solve this IRR problem using Microsoft Excel}
-
-![](https://latex.codecogs.com/svg.latex?%5Cdpi%7B300%7D%20%5Cfn_cm%20%5Ctext%7BDiscrete%20Absolute%20Return%7D%20%3D%20%5Cfrac%7B%5Ctext%7BFinal%20Price%7D%7D%7B%5Ctext%7BInitial%20Price%7D%7D%20-%201)
 
 In other words:
 ```
@@ -52,10 +49,21 @@ In other words:
 Next, we're going to look at calculating the geometric mean of a series of annual returns. So, let's suppose that I have four annual returns, +25%, -18%, +10%, and -4%. What I want to know is if I have $1 at the beginning of the four year period, how many dollars will I have at the end of the four year period?
 
 The way that I can calculate this is by looking at each year at a time, and then taking the product. So, I can say for year one,$1 would be $1.25. For year two, $1 would be 0.82 cents. For year three, $1 would be $1.10. And year four, $1 would be 0.96 cents. If I multiply all these together,I'll find that I have 1.0824 or $1.08
+```
+($1.25)($0.82)($1.10)($0.96) = $1.0824 ~ $1.08
+```
+and a little bit of extra, for an absolute return over the four year period of 
+```
+($1.0824/$1.00) - 1 = 0.0824*100% = 8.24%,
+```
+a little over 8%.
 
-
+And if I want to convert this to an annualized return, I'm going to take the geometric mean over four time intervals of the value 1.0824. And the way that I do that is
+```
+($1.0824/$1.00)^(1/4 years) - 1 = 1.0824^0.25 -1 = 1.01999 - 1 = 0.01999*100% ~ 2%
+```
 and this gives me a geometric mean return of 2%. So, as we've just seen, the geometric mean return of our four different annual returns is just about 2% {as shown in the red bars of the figure below}. So we could have had an investment that returned exactly 2% here for 4 years.
 
+![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xSvVOGfUEeWAwg6u9PPi2Q_53ae2a20a4e02e9fb1fac3f710454c61_Return7.jpg?expiry=1449792000000&hmac=4zGmYU5oaS4e7ZZChGY6ORfwPnSbf4W5U901ZXnLtiE)
 
 And it would've achieved the same outcome as our much more scattered returns, ranging from +25% all the way down to -18%..
-![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xSvVOGfUEeWAwg6u9PPi2Q_53ae2a20a4e02e9fb1fac3f710454c61_Return7.jpg?expiry=1449792000000&hmac=4zGmYU5oaS4e7ZZChGY6ORfwPnSbf4W5U901ZXnLtiE)
