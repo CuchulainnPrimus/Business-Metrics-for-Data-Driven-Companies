@@ -67,3 +67,13 @@ and this gives me a geometric mean return of 2%. So, as we've just seen, the geo
 ![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xSvVOGfUEeWAwg6u9PPi2Q_53ae2a20a4e02e9fb1fac3f710454c61_Return7.jpg?expiry=1449792000000&hmac=4zGmYU5oaS4e7ZZChGY6ORfwPnSbf4W5U901ZXnLtiE)
 
 And it would've achieved the same outcome as our much more scattered returns, ranging from +25% all the way down to -18%..
+
+So, something that we very much want to know is how scattered are our returns. It's a basic assumption of finance that all else being equal, if two investment opportunities have the same long-term return, we would prefer the one that doesn't have the huge range or scatter of returns and is much more consistent.
+
+So, the metric that we use to calculate how clustered together or spread out our returns is called the standard deviation. The way that we calculate the standard deviation is we first take the arithmetic mean of our four values. Then we're going to subtract that mean from each individual value. That gives us the distance from the mean of each value. So, for our values here, first step is to calculate the mean:
+
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/nZtCIGfZEeW7ghK3HGMBQw_427bf697083e085993c0e871c780b5cb_Return8.jpg?expiry=1449792000000&hmac=akR1lVppe2gEdyUBH3w14ZZnmKdjrdLIHZ80PNiI1vg)
+
+Standard deviation of returns is known in finance as volatility of returns and it is a standard measure of risk. Because, as I said before, all else being equal, the greater the volatility of returns, the riskier an investment is.
+
+An investment with a fixed pay-out, like a bond, that also has effectively zero chance of loss is known as a risk-free investment. It has zero volatility of returns. The annual interest rate paid by financially strong, national governments. When they borrow in their own currency, is known as the risk-free rate of return. Typically, the U.S Government three-month Treasury bill rate is used. This rate is currently 0.08%, far lower than its long-term historical average of 4.55%. The risk-free rate is the rate for lending without risk. But large companies and financial institutions can also borrow at rates quite close to this rate, so it's often used for simplification of our problems.
