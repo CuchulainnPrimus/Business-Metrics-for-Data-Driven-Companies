@@ -41,6 +41,9 @@ When an investment is not made all at once, but cash is invested at several diff
 ```
 (1 + x)^4 + (1 + x)^2 = 5
 ```
+{Here is a way to solve this IRR problem using Microsoft Excel}
+
+!(https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/XHTgS2fQEeWYRArOVOOUlQ_25bece24bf31a38caa45c5cf6172f2dd_Return5.jpg?expiry=1449792000000&hmac=LLqMuiH93o4-KHKsuOy82c4VXD48iQ1DmW90h4Mr3CI)
 In other words:
 ```
 (1 + 0.2962)^4 + (1 + 0.2962)^3 = 2.8223 + 2.1778 = 5.001 
