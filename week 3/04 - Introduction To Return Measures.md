@@ -45,6 +45,9 @@ When an investment is not made all at once, but cash is invested at several diff
 
 ![](https://latex.codecogs.com/svg.latex?%5Cdpi%7B300%7D%20%5Cfn_cm%20%5Ctiny%20%5Ctext%7BDiscrete%20Absolute%20Return%7D%20%3D%20%5Cfrac%7B%5Ctext%7BFinal%20Price%7D%7D%7B%5Ctext%7BInitial%20Price%7D%7D%20-%201)
 
+
+![](http://bit.ly/1Nc4tId)
+
 In other words:
 ```
 (1 + 0.2962)^4 + (1 + 0.2962)^3 = 2.8223 + 2.1778 = 5.001 
