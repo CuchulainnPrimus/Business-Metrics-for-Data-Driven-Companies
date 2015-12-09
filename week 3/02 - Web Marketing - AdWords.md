@@ -11,6 +11,10 @@ Google ranks the links that it shows. Higher ranked links get more attention and
 ```
 CPC bid * Quality Score = Ad Rank
 ```
+where Quality Score metric is
+- Expected Click-through rate
+- Ad Relevance
+- Landing Page Experience
 
 In Google's words what this means is the quality of your ad text and landing page in the context of what a user is searching for. This may sound mysterious, but the purpose of the two additional {weighting} factors is to prevent exploitative misdirection that would hurt the Google brand.
 
